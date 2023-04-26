@@ -2,7 +2,7 @@
 namespace bxxhhl;
 class common{
     public  function text(){
-        echo "Hello";    
+        echo "Hello i sdfsadf";    
     }
 }
 ?>
