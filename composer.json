@@ -2,7 +2,7 @@
     "name": "bxxhhl/common",
     "description": "这是一个字符校验",
     "type": "metapackage",
-    "license": "1.0",
+    "license": "1.0.0",
     "autoload": {
         "psr-4": {
             "Bxxhhl\\": "src/"
